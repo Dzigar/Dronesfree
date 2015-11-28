@@ -1,0 +1,26 @@
+#folder settings/
+.settings/
+
+#folder bin/
+bin/
+
+#folder target/
+target/
+
+#folder WebContent/
+WebContent/
+
+#folder log/
+log/
+
+
+#file with facebook app id and secret
+src/main/resources/application.properties
+
+#file classpath
+.classpath
+
+.project
+
+.checkstyle
+
